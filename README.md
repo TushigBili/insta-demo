@@ -67,3 +67,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 # insta-demo
+This app is inteded to be a clone of the instagram application. I learned how to design, construct, and execute mobile app development with this project. No copyright intended on this application. 
